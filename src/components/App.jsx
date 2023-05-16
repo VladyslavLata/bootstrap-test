@@ -6,8 +6,8 @@ export const App = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 34,
-        color: '#010101',
+        fontSize: 39,
+        color: '#017101',
       }}
     >
       React homework template!

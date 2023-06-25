@@ -15,4 +15,5 @@ export const App = () => {
   );
 };
 
-// git commit -a -m "d"
+//      git commit -a -m "d"
+//     git push

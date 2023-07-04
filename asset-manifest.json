@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bootstrap-test/static/css/main.7acaea2f.css",
-    "main.js": "/bootstrap-test/static/js/main.53bf069c.js",
+    "main.js": "/bootstrap-test/static/js/main.e5b8787f.js",
     "index.html": "/bootstrap-test/index.html",
     "main.7acaea2f.css.map": "/bootstrap-test/static/css/main.7acaea2f.css.map",
-    "main.53bf069c.js.map": "/bootstrap-test/static/js/main.53bf069c.js.map"
+    "main.e5b8787f.js.map": "/bootstrap-test/static/js/main.e5b8787f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.53bf069c.js"
+    "static/js/main.e5b8787f.js"
   ]
 }
